@@ -15,6 +15,12 @@ cd saily-automation
 
 ## 🧪 Running Tests
 
+### Install packages
+```bash
+npm install
+npx playwright install
+```
+
 ### 💻 Desktop View
 
 **Headless mode:**
@@ -70,8 +76,7 @@ Feature files:
 - `tests/desktop/saily.feature`
 - `tests/mobile/saily.feature`
 
-To navigate to step definitions in your IDE:  
-Hold `Cmd` (macOS) or `Ctrl` (Windows) and click on any step.
+For VSCode you can install this to navigate via cucumber steps: https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official
 
 ---
 
