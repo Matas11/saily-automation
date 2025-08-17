@@ -7,7 +7,7 @@ This is an end-to-end (E2E) automation framework built with **Playwright**, **Cu
 ## 📦 Cloning the Repository
 
 ```bash
-git clone https://github.com/Matas11/saily-automaton.git
+git clone https://github.com/Matas11/saily-automation.git
 cd saily-automaton
 ```
 
