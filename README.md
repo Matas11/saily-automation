@@ -85,5 +85,3 @@ Hold `Cmd` (macOS) or `Ctrl` (Windows) and click on any step.
   - Only marked as failed if all retries fail
 
 ---
-
-✅ **Ready to scale. Easy to maintain. Built for quality.**
