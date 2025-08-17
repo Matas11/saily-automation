@@ -55,6 +55,7 @@ Each failed step will have a `.png` screenshot for easier debugging.
 After all tests have finished:
 
 - A `reports/` folder is created in the project root.
+- Open the `reports/html/index.html` file to see the report
 - If all tests pass, the report will confirm success.
 - If any test fails, the report will show:
   - Which **Cucumber step** failed
